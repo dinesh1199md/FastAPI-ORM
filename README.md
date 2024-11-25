@@ -24,7 +24,7 @@ git clone <repository-url>
 cd <repository-directory>
 ```
 
-### Step 1: Clone the Repository 
+### Step 2: Install Required Dependencies
 
 ```
 pip install -r requirements.txt
